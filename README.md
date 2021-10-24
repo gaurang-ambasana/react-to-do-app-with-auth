@@ -14,4 +14,4 @@ Read more about pod here :
 https://solidproject.org/about
 https://solidproject.org/users/get-a-pod
 
-Learn to build solid apps : [here](https://www.freecodecamp.org/news/create-a-solid-to-do-app-with-react/)
+Learn to build solid apps [here](https://www.freecodecamp.org/news/create-a-solid-to-do-app-with-react/)
