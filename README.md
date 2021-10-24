@@ -11,7 +11,7 @@ Todo List App with features of :
 It uses React and Dataset of Pod.
 Read more about pod here :
 
-https://solidproject.org/about
-https://solidproject.org/users/get-a-pod
+- https://solidproject.org/about
+- https://solidproject.org/users/get-a-pod
 
 Learn to build solid apps [here](https://www.freecodecamp.org/news/create-a-solid-to-do-app-with-react/)
